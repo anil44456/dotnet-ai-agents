@@ -2,6 +2,16 @@
   <Folder Name="/01/">
     <Project Path="hello-agent/hello-agent.csproj" />
   </Folder>
+  <Folder Name="/02-function-tools/" />
+  <Folder Name="/02-function-tools/approval-function/">
+    <Project Path="approval-function-tool/approval-function-tool.csproj" Id="533c2f8b-061f-4c92-9145-36b834a2f7ea" />
+  </Folder>
+  <Folder Name="/02-function-tools/multiple-function-tools/">
+    <Project Path="multiple-function-tools/multiple-function-tools.csproj" Id="913caa74-364a-47f1-9108-c6ffe8ad755c" />
+  </Folder>
+  <Folder Name="/02-function-tools/one-function-tool/">
+    <Project Path="one-function-tool/one-function-tool.csproj" Id="5b3dfd23-3c7f-47c3-9c7d-031c8fc66cb7" />
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
   </Folder>

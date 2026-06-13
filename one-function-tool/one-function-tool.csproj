@@ -3,12 +3,13 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net10.0</TargetFramework>
-    <RootNamespace>hello_agent</RootNamespace>
+    <RootNamespace>one_function_tool</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.Agents.AI" Version="1.10.0" />
     <PackageReference Include="Microsoft.Extensions.AI" Version="10.7.0" />
     <PackageReference Include="Microsoft.Extensions.AI.OpenAI" Version="10.7.0" />
     <PackageReference Include="OpenAI" Version="2.11.0" />
