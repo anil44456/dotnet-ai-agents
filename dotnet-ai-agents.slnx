@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/01/">
+    <Project Path="hello-agent/hello-agent.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+</Solution>
