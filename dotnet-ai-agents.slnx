@@ -12,6 +12,13 @@
   <Folder Name="/02-function-tools/one-function-tool/">
     <Project Path="one-function-tool/one-function-tool.csproj" Id="5b3dfd23-3c7f-47c3-9c7d-031c8fc66cb7" />
   </Folder>
+  <Folder Name="/03-session-memory/" />
+  <Folder Name="/03-session-memory/basicmemory/">
+    <Project Path="basic-memory/basic-memory.csproj" Id="19d7b2a0-bcc5-43f5-ad3d-7209d1b2436b" />
+  </Folder>
+  <Folder Name="/03-session-memory/session-memory/">
+    <Project Path="session-memory/session-memory.csproj" Id="361205da-ca23-447f-b3f5-fea7bbfdb613" />
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
   </Folder>
