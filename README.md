@@ -1,1 +1,1 @@
-# dotnet-agents
+# dotnet-ai-agents
