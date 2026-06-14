@@ -19,6 +19,15 @@
   <Folder Name="/03-session-memory/session-memory/">
     <Project Path="session-memory/session-memory.csproj" Id="361205da-ca23-447f-b3f5-fea7bbfdb613" />
   </Folder>
+  <Folder Name="/04-structured-output/">
+    <Project Path="structured-output/structured-output.csproj" Id="0d733f10-33db-402f-9715-de171176255d" />
+  </Folder>
+  <Folder Name="/05-rag/">
+    <Project Path="rag/rag.csproj" Id="62e95049-ec7f-4c31-81bd-8e71cc16f02b" />
+  </Folder>
+  <Folder Name="/06-support-workflow/">
+    <Project Path="support-workflow/support-workflow.csproj" Id="0b3d9565-ac5f-437b-a342-90937233f015" />
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
   </Folder>
