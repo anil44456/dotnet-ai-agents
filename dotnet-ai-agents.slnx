@@ -28,6 +28,10 @@
   <Folder Name="/06-support-workflow/">
     <Project Path="support-workflow/support-workflow.csproj" Id="0b3d9565-ac5f-437b-a342-90937233f015" />
   </Folder>
+  <Folder Name="/AgentExample/" />
+  <Folder Name="/AgentExample/SqlAgent/">
+    <Project Path="SqlAgent/SqlAgent.csproj" Id="2b41b2f1-1ed3-4843-9a2d-e487988c4540" />
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
   </Folder>
